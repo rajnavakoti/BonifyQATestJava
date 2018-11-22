@@ -1,0 +1,16 @@
+# Login Page General Test Data #
+
+Login_Page_Title=bonify
+Login_Header=Willkommen bei bonify!
+UserName_Default_Label=Email / Benutzername
+UserName_Mandatory_Message=Trage bitte Deine Email-Adresse ein
+UserName_Error_Message=Bitte nutze eine gültige Email-Adresse
+Password_Mandotary_Message=Trage bitte Dein Passwort ein
+Incorrct_Credentials_Message=Leider passen Benutzername und Passwort nicht zusammen.
+Forgot_Password_link_text=Passwort vergessen?
+Login_Button_text=ANMELDUNG
+Register_Button_text=NEU REGISTRIEREN
+Impressum_link_text=Impressum
+AGB_link_text=AGB
+Datenschutz_link_text=Datenschutz
+Footer_text=Für die Sicherheit Deiner Daten arbeitet bonify mit:

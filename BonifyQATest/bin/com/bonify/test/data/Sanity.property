@@ -1,0 +1,5 @@
+# Sanity Test Data #
+
+# TC_01_Verify_Login_With_Valid_Credentials
+TC_01_User_Name=rajaprabhas455@gmail.com
+TC_01_Password=Prabhas@5

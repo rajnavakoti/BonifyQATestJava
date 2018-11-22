@@ -1,0 +1,10 @@
+### Driver Paths ###
+
+ChormeDriver=./Drivers/chromedriver.exe
+IEDriver=./Drivers/IEDriverServer.exe
+GeckDriver=./Drivers/geckodriver.exe
+
+### Browser and URL ###
+
+URL=http://my.bonify.de
+Browser=firefox

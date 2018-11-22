@@ -1,0 +1,25 @@
+
+## Login Page ##
+
+Header_Text_Xpath=//div[@class='login-panel']/h1
+Username_default_Text_xpath=//label[@for='email']
+Username_Xpath=//input[@name='email']
+Username_Label_Xpath=//label[@for='email']
+UserName_Error_Xpath=//div[@class='login-panel']/form/div/div[2]/span
+Password_Xpath=//input[@name='password']
+Password_Label_Xpath=//label[@for='password']
+Password_Error_Xpath=//div[@class='login-panel']/form/div[2]/div[2]/span
+ForgotPasswordlink_Xpath=//a[contains(@href,'recover')]
+LoginButton_Xpath=//button[@type='submit']
+RegisterButton_Xpath=//a[contains(@href,'register/email')]
+ImpressumLink_Xpath=//a[contains(@href,'bonify.de/impressum')]
+AGBLink_Xpath=//a[contains(@href,'bonify.de/agb')]
+DatenschutzLink_Xpath=//a[contains(@href,'bonify.de/datenschutz')]
+FooterText_Xpath=//footer/div
+GeneralError_Xpath=//p[@class='general-error']
+
+
+## Dashboard Page ##
+Username_Menu_Dropdown_Xpath=//*[@id="main-header"]/div[1]/div[1]/div[2]/button[1]/div[1]
+Expand_Icon_At_User_ID_Xpath=//i[@class='right ico-bonify-expand']
+Signout_Button_Xpath=//*[@id="main-body"]/ul[1]/li[4]/button[1]

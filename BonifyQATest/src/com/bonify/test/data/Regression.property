@@ -1,0 +1,28 @@
+# Regression Test Data #
+
+# TC_01_Verify_Login_With_Valid_Credentials
+TC_01_User_Name=rajaprabhas455@gmail.com
+TC_01_Password=Prabhas@5
+
+# TC_02_Verify_Login_Without_Username
+TC_02_Password=Prabhas@5
+
+# TC_03_Verify_Login_With_Incorrect_Username
+TC_03_User_Name=rajaprabhas
+TC_03_Password=Prabhas@5
+
+# TC_04_Verify_Login_With_Invalid_Email_Format
+TC_04_User_Name=raja#gmail.com
+TC_04_Password=Prabhas@5
+
+# TC_05_Verify_Login_Without_Password
+TC_05_User_Name=rajaprabhas455@gmail.com
+TC_05_Password=
+
+# TC_06_Verify_Login_Incorrect_Password
+TC_06_User_Name=rajaprabhas455@gmail.com
+TC_06_Password=prabhasa5
+
+# TC_07_Verify_Login_Without_Username_Password
+TC_07_User_Name=
+TC_07_Password=
